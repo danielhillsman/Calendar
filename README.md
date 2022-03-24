@@ -24,5 +24,7 @@ This is a Repo that has a simple App created with html, css, and javascript.
 
 I'm the only one that contributed to it.
 
-## Contact
-Have any questions? Please contact me at [daniel.loves.junk@gmail.com](mailto:daniel.loves.junk@gmail.com). View more of my work in GitHub at [danielhillsman](https://github.com/danielhillsman)
+## Live Repo
+ https://danielhillsman.github.io/Calendar/
+## Repo Link
+https://github.com/danielhillsman/Calendar
